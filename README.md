@@ -1,0 +1,1 @@
+# Single-Layer-Perceptron-Implementation-on-Handwritten-MNIST-dataS
